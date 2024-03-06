@@ -1,0 +1,17 @@
+{
+  "artifacts" : {
+    "playdate" : {
+      "type" : "swiftSDK",
+      "version" : "0.0.1",
+      "variants" : [
+        {
+          "path" : "./generic",
+          "supportedTriples" : [
+            "arm64-apple-macosx13.0"
+          ]
+        }
+      ]
+    }
+  },
+  "schemaVersion" : "1.0"
+}

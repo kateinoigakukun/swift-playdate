@@ -1,0 +1,3 @@
+module _CPlaydate {
+  header "_CPlaydate.h"
+}
